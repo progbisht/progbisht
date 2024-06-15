@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **bishtkailash98@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15KtAb0UMvk_5axzEF-yRf0M8ZZkmXycD/view?usp=drive_link](https://drive.google.com/file/d/15KtAb0UMvk_5axzEF-yRf0M8ZZkmXycD/view?usp=drive_link)
+- 📄 Know about my experiences https://drive.google.com/file/d/1Wee9_W0aeuDrAX1Fm1kULq4uWOWyAIJ6/view?usp=sharing
 
 - ⚡ Fun fact **I am unexperienced developer!**
 
@@ -79,7 +79,7 @@
 </p>
 
 <h3 align="left">Improving my stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=progbisht&show_icons=true&locale=en&layout=compact" alt="progbisht" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=progbisht&show_icons=true&locale=en&layout=compact" alt="progbisht" width="40" height="40" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=progbisht&show_icons=true&locale=en" alt="progbisht" /></p>
 
