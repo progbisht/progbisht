@@ -79,8 +79,8 @@
 </p>
 
 <h3 align="left">Improving my stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=progbisht&show_icons=true&locale=en&layout=compact" alt="progbisht" width="512" height="256" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=progbisht&show_icons=true&locale=en&layout=compact" alt="progbisht" width="346" height="144" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=progbisht&show_icons=true&locale=en" alt="progbisht" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=progbisht&show_icons=true&locale=en" alt="progbisht" width="346" height="144" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=progbisht&" alt="progbisht" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=progbisht&" alt="progbisht" width="346" height="144" /></p>
