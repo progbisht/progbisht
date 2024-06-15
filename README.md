@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **bishtkailash98@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1Wee9_W0aeuDrAX1Fm1kULq4uWOWyAIJ6/view?usp=sharing
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1Wee9_W0aeuDrAX1Fm1kULq4uWOWyAIJ6/view?usp=sharing" target="_blank">Kailash's Resume</a>
 
 - ⚡ Fun fact **I am unexperienced developer!**
 
@@ -83,4 +83,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=progbisht&show_icons=true&locale=en" alt="progbisht" width="346" height="144" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=progbisht&" alt="progbisht" width="346" height="144" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=progbisht&" alt="progbisht" width="346" height="144" /></p>
