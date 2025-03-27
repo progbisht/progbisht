@@ -6,17 +6,17 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=progbisht" alt="progbisht" /></a> 
 </p>
 
-- 🔭 I’m currently working on **Golang & Typescript Frameworks**
+- 🔭 I’m currently working on **Java & Python Frameworks**
 
-- 🌱 I’m currently learning **Microservice and System Design**
+- 🌱 I’m currently learning **DSA and System Design**
 
-- 🤝 I’m looking for help with **Fullstack Development**
+- 🤝 I’m looking for help with **Building Scalable, Secure and Reliable Systems**
 
 - 📫 How to reach me **bishtkailash98@gmail.com**
 
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1Wee9_W0aeuDrAX1Fm1kULq4uWOWyAIJ6/view?usp=sharing" target="_blank">Kailash's Resume</a>
 
-- ⚡ Fun fact **I am unexperienced developer!**
+- ⚡ Fun fact **I know how to write hello world program!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
