@@ -57,45 +57,45 @@ My experience spans **Java (Spring Boot)** and **Python (FastAPI)** frameworks, 
 ### 🧰 Tech Stack
 
 #### 💻 Programming Languages  
-![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
-![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)
-![Go](https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg)
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
-![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="25" height="25"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25" height="25"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="25" height="25"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="25" height="25"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25" height="25"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="25" height="25"/> 
 
 #### ⚙️ Frameworks & Libraries  
-![Spring Boot](https://www.vectorlogo.zone/logos/springio/springio-icon.svg)
-![FastAPI](https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png)
-![NodeJS](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg)
-![ExpressJS](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg)
-![NestJS](https://nestjs.com/logo-small-gradient.76616405.svg)
-![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
-![Redux](https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg)
-![TailwindCSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="25" height="25"/> 
+<img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="25" height="25"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="25" height="25"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="25" height="25"/> 
+<img src="https://nestjs.com/logo-small-gradient.76616405.svg" width="25" height="25"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="25" height="25"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="25" height="25"/> 
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="25" height="25"/> 
 
 #### 🗄️ Databases  
-![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
-![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg)
-![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)
-![Snowflake](https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg)
-![Redis](https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="25" height="25"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="25" height="25"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="25" height="25"/> 
+<img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="25" height="25"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="25" height="25"/> 
 
 #### ☁️ Platforms & Tools  
-![AWS](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
-![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)
-![Kubernetes](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg)
-![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
-![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
-![Jenkins](https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg)
-![Airbyte](https://avatars.githubusercontent.com/u/61498464?s=200&v=4)
-![Temporal](https://temporal.io/logos/mark/mark-blue.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="25" height="25"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="25" height="25"/> 
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="25" height="25"/> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="25" height="25"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="25" height="25"/> 
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="25" height="25"/> 
+<img src="https://avatars.githubusercontent.com/u/61498464?s=200&v=4" width="25" height="25"/> 
+<img src="https://temporal.io/logos/mark/mark-blue.svg" width="25" height="25"/> 
 
 #### 📊 Machine Learning Libraries  
-![Pandas](https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg)
-![Scikit-learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)
-![Seaborn](https://seaborn.pydata.org/_images/logo-mark-lightbg.svg)
-![OpenCV](https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="25" height="25"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="25" height="25"/> 
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="25" height="25"/> 
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="25" height="25"/> 
 
 ---
 
