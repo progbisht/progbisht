@@ -57,45 +57,45 @@ My experience spans **Java (Spring Boot)** and **Python (FastAPI)** frameworks, 
 ### 🧰 Tech Stack
 
 #### 💻 Programming Languages  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="25" height="25"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="25" height="25"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="25" height="25"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="25" height="25"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25" height="25"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="25" height="25"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="28" height="28"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="28" height="28"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="28" height="28"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="28" height="28"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="28" height="28"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="28" height="28"/> 
 
 #### ⚙️ Frameworks & Libraries  
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="25" height="25"/> 
-<img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="25" height="25"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="25" height="25"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="25" height="25"/> 
-<img src="https://nestjs.com/logo-small-gradient.76616405.svg" width="25" height="25"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="25" height="25"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="25" height="25"/> 
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="25" height="25"/> 
+<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="28" height="28"/> 
+<img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" width="28" height="28"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="28" height="28"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="28" height="28"/> 
+<img src="https://nestjs.com/logo-small-gradient.76616405.svg" width="28" height="28"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="28" height="28"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="28" height="28"/> 
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="28" height="28"/> 
 
 #### 🗄️ Databases  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="25" height="25"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="25" height="25"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="25" height="25"/> 
-<img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="25" height="25"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="25" height="25"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="28" height="28"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="28" height="28"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="28" height="28"/> 
+<img src="https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg" width="28" height="28"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="28" height="28"/> 
 
 #### ☁️ Platforms & Tools  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="25" height="25"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="25" height="25"/> 
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="25" height="25"/> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="25" height="25"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="25" height="25"/> 
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="25" height="25"/> 
-<img src="https://avatars.githubusercontent.com/u/61498464?s=200&v=4" width="25" height="25"/> 
-<img src="https://temporal.io/logos/mark/mark-blue.svg" width="25" height="25"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="28" height="28"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="28" height="28"/> 
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="28" height="28"/> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="28" height="28"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="28" height="28"/> 
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="28" height="28"/> 
+<img src="https://avatars.githubusercontent.com/u/61498464?s=200&v=4" width="28" height="28"/> 
+<img src="https://temporal.io/logos/mark/mark-blue.svg" width="28" height="28"/> 
 
 #### 📊 Machine Learning Libraries  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="25" height="25"/> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="25" height="25"/> 
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="25" height="25"/> 
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="25" height="25"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="28" height="28"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="28" height="28"/> 
+<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="28" height="28"/> 
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="28" height="28"/> 
 
 ---
 
