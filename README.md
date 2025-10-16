@@ -112,7 +112,7 @@ My experience spans **Java (Spring Boot)** for core backend development and **Py
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=progbisht&theme=algolia" alt="streak-stats" width="400"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=progbisht&"  alt="progbisht" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api?username=progbisht&show_icons=true&theme=algolia" alt="stats" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=progbisht&layout=compact&theme=algolia" alt="top-langs" width="400"/>
 </p>
