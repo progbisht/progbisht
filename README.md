@@ -1,86 +1,122 @@
 <h1 align="center">Hi 👋, I'm Kailash Bisht</h1>
-<h3 align="center">Software Engineer (Backend Development).</h3>
+<h3 align="center">Software Engineer | Backend Development | Java & Python Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=progbisht&label=Profile%20views&color=0e75b6&style=flat" alt="progbisht" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=progbisht" alt="progbisht" /></a> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=progbisht&label=Profile%20views&color=0e75b6&style=flat" alt="progbisht" />
 </p>
 
-- 🔭 I’m currently working on **Java & Python Frameworks**
+---
 
-- 🌱 I’m currently learning **DSA and System Design**
+### 🚀 About Me  
+I’m a **Software Engineer** passionate about building **scalable, secure, and high-performance backend systems**.  
+My experience spans **Java (Spring Boot)** and **Python (FastAPI)** frameworks, where I’ve architected data pipelines, RESTful APIs, and distributed systems leveraging **Docker, Kubernetes, and AWS**.
 
-- 🤝 I’m looking for help with **Building Scalable, Secure and Reliable Systems**
+- 🔭 Currently working on **Microservices Architecture & Cloud-Native Applications**  
+- 🌱 Learning **Advanced DSA & System Design**  
+- ⚙️ Passionate about **optimizing performance, improving scalability & writing clean code**  
+- 🤝 Open to collaborating on **SaaS, FinTech, and Data-driven backend systems**  
+- 📫 Reach me at **bishtkailash98@gmail.com**  
+- 📄 Check out my [**Resume**](https://drive.google.com/file/d/1Wee9_W0aeuDrAX1Fm1kULq4uWOWyAIJ6/view?usp=sharing)  
 
-- 📫 How to reach me **bishtkailash98@gmail.com**
+---
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1Wee9_W0aeuDrAX1Fm1kULq4uWOWyAIJ6/view?usp=sharing" target="_blank">Kailash's Resume</a>
+### 💼 Experience Snapshot
 
-- ⚡ Fun fact **I know how to write hello world program!**
+#### 🧠 Founding Software Engineer — *Dvio Digital (Pune, IND)*  
+**Jul 2024 – Present**
+- Architected backend systems using **Java (Spring Boot)** & **Python (FastAPI)** with OAuth2 authentication & rate-limiting.  
+- Integrated **Meta Ads, Google Analytics, and 10+ APIs** via Airbyte connectors.  
+- Designed **Redis caching** & optimized DB schema, improving system speed by **30%**.  
+- Built **fault-tolerant ETL pipelines** with Temporal and Snowflake, ensuring 99% data accuracy.  
+- Deployed A/B testing and feature flags—reduced churn rate by **80%**.  
+- Mentored junior engineers on clean code and architectural best practices.
 
-<h3 align="left">Connect with me:</h3>
+#### 💻 Full Stack Engineer — *Explorers United (Remote, IND)*  
+**Sep 2023 – Jul 2024**
+- Delivered a full-stack travel web app using **MERN stack** (MongoDB, Express, React, Node).  
+- Built **custom itinerary APIs** & **React components**, achieving a **90% Lighthouse score**.  
+- Enhanced personalization and dynamic content rendering for better user experience.
+
+#### ☁️ Cloud & Data Operations Engineer — *To The New (Noida, IND)*  
+**Feb 2023 – Aug 2023**
+- Managed **ETL workflows** and automated data operations using **Python scripts**.  
+- Assisted in **AWS deployments** using **Docker & Kubernetes**, cutting downtime by **30–40%**.  
+- Documented data pipelines for efficient developer onboarding.
+
+---
+
+### 🎓 Education
+**Master of Computer Applications (MCA)** — *Jamia Hamdard University*  
+• Percentage: 85%  
+**Bachelor of Computer Applications (BCA)** — *Jamia Hamdard University*  
+• Percentage: 75%  
+**Coursework:** DSA, DBMS, Operating Systems, OOP, Networks, System Design, AI & ML
+
+---
+
+### 🧰 Tech Stack
+
+#### 💻 Programming Languages  
+![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)
+![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)
+![Go](https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg)
+![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)
+
+#### ⚙️ Frameworks & Libraries  
+![Spring Boot](https://www.vectorlogo.zone/logos/springio/springio-icon.svg)
+![FastAPI](https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png)
+![NodeJS](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg)
+![ExpressJS](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg)
+![NestJS](https://nestjs.com/logo-small-gradient.76616405.svg)
+![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)
+![Redux](https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg)
+![TailwindCSS](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)
+
+#### 🗄️ Databases  
+![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg)
+![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg)
+![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg)
+![Snowflake](https://www.vectorlogo.zone/logos/snowflake/snowflake-icon.svg)
+![Redis](https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg)
+
+#### ☁️ Platforms & Tools  
+![AWS](https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg)
+![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg)
+![Kubernetes](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg)
+![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
+![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)
+![Jenkins](https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg)
+![Airbyte](https://avatars.githubusercontent.com/u/61498464?s=200&v=4)
+![Temporal](https://temporal.io/logos/mark/mark-blue.svg)
+
+#### 📊 Machine Learning Libraries  
+![Pandas](https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg)
+![Scikit-learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg)
+![Seaborn](https://seaborn.pydata.org/_images/logo-mark-lightbg.svg)
+![OpenCV](https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg)
+
+---
+
+### 🌐 Connect With Me  
 <p align="left">
-  <a href="https://linkedin.com/in/kailash-bisht-kb10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kailash-bisht-kb10/" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/i300_iq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/i300_iq" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/profile/kailashbisht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/kailashbisht" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/u/kailashbisht10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/kailashbisht10/" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/kailashbisht10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/kailashbisht10/" height="30" width="40" /></a>
-
+  <a href="https://linkedin.com/in/kailash-bisht-kb10/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/u/kailashbisht10/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/kailashbisht10/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/profile/kailashbisht" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/i300_iq" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <h5 align="left">Programming Languages</h5>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+---
 
-  <h5 align="left">Framworks and Libraries</h5>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> 
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://nestjs.com/logo-small-gradient.76616405.svg" alt="nestjs" width="40" height="40"/> </a> 
-  
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
-
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-  
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-  
-  <h5 align="left">Databases</h5>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-
-  
-  <h5 align="left">Platforms and Tools</h5>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> 
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-
-  
-  <h5 align="left">Machine Learning Libraries</h5>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=progbisht&theme=algolia" alt="streak-stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=progbisht&show_icons=true&theme=algolia" alt="stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=progbisht&layout=compact&theme=algolia" alt="top-langs" width="400"/>
 </p>
 
-<h3 align="left">Improving my stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=progbisht&show_icons=true&locale=en&layout=compact" alt="progbisht" width="346" height="156" /></p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=progbisht&show_icons=true&locale=en" alt="progbisht" width="346" height="156" /></p>
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=progbisht&" alt="progbisht" width="346" height="156" /></p>
+⭐ *“Code. Debug. Optimize. Repeat.”*  
